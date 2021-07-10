@@ -2,11 +2,16 @@
 ~ Aditya Malwade </br>
 A completely responsive app built using flutter thst maintains weekly expenses.
 ***
+
 ## Features
 1. Add new Expense
 2. Delete Expense
 3. Responsive
 4. Default Home Page
+***
+
+## Demo
+![demo](https://github.com/aditya491929/Expense_App_Flutter/blob/master/Gif1.gif)
 
 ## ScreenShots
 > Home Page
