@@ -1,5 +1,5 @@
 # Expense App Flutter
-~ Aditya Malwade
+~ Aditya Malwade </br>
 A completely responsive app built using flutter thst maintains weekly expenses.
 ***
 ## Features
