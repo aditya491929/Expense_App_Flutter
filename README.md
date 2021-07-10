@@ -1,16 +1,27 @@
 # Expense App Flutter
-
-An app built using flutter thst maintains weekly expenses.
+~ Aditya Malwade
+A completely responsive app built using flutter thst maintains weekly expenses.
 ***
-## Getting Started
+## Features
+1. Add new Expense
+2. Delete Expense
+3. Responsive
+4. Default Home Page
 
-This project is a starting point for a Flutter application.
+## ScreenShots
+> Home Page
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2021-07-10 at 3 10 12 PM (3)](https://user-images.githubusercontent.com/69159108/125159055-a08cf800-e192-11eb-8bc7-c007d5dba0e1.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![WhatsApp Image 2021-07-10 at 3 10 12 PM (1)](https://user-images.githubusercontent.com/69159108/125159058-a256bb80-e192-11eb-9e55-d0a491249fa6.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Landscape mode)
+
+![WhatsApp Image 2021-07-10 at 3 10 12 PM](https://user-images.githubusercontent.com/69159108/125159056-a1258e80-e192-11eb-9ec6-606fbe9f1db8.jpeg)
+
+
+***
+> New Expense
+
+![WhatsApp Image 2021-07-10 at 3 10 12 PM (2)](https://user-images.githubusercontent.com/69159108/125159059-a256bb80-e192-11eb-91cb-ee3cdf0c8cb3.jpeg)
+
