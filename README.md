@@ -1,7 +1,7 @@
-# expense_app
+# Expense App Flutter
 
-A new Flutter project.
-
+An app built using flutter thst maintains weekly expenses.
+***
 ## Getting Started
 
 This project is a starting point for a Flutter application.
